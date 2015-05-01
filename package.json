@@ -1,0 +1,12 @@
+{
+	"name": "@dmail/iterator-map",
+	"version": "0.0.1",
+	"dependencies": {
+		"@dmail/proto": "*",
+		"@dmail/iterator": "*"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/dmail/iterator-map"
+	}
+}
